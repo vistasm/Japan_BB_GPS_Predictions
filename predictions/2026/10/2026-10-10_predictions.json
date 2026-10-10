@@ -1,0 +1,2227 @@
+{
+  "prediction_date": "2026-10-10",
+  "config": "BB_Full+GPS",
+  "data_hashes": {
+    "usgs": "8eff6c5ea10ec0db",
+    "jma": "9189b1d70bd3a168",
+    "gps": "cc1ac79dc68bf9c9"
+  },
+  "zones": [
+    {
+      "zone_id": "Z_15_120",
+      "name": "Okinawa",
+      "pop_millions": 28,
+      "tiers": {
+        "T1": {
+          "probability": 0.027887,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.027887,
+          "gps_reliability": 0.646,
+          "boost": -0.0
+        },
+        "T2": {
+          "probability": 0.228871,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.228871,
+          "gps_reliability": 0.646,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.314619,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.314619,
+          "gps_reliability": 0.646,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.292018,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.292018,
+          "gps_reliability": 0.646,
+          "boost": -0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_15_145",
+      "name": "Z_15_145",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.028726,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.028726,
+          "gps_reliability": 0.25,
+          "boost": -0.0
+        },
+        "T2": {
+          "probability": 0.237178,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.237178,
+          "gps_reliability": 0.25,
+          "boost": -0.0
+        },
+        "T3": {
+          "probability": 0.321945,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.321945,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.297508,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.297508,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_20_120",
+      "name": "Ryukyu",
+      "pop_millions": 8,
+      "tiers": {
+        "T1": {
+          "probability": 0.633323,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.633323,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.462601,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.462601,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.397205,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.397205,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.383082,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.383082,
+          "gps_reliability": 0.5,
+          "boost": -0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_20_125",
+      "name": "Z_20_125",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.272379,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.272379,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.45563,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.45563,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.458093,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.458093,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.440708,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.440708,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_20_140",
+      "name": "Z_20_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.377031,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.377031,
+          "gps_reliability": 0.396,
+          "boost": -0.0
+        },
+        "T2": {
+          "probability": 0.567043,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.567043,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.542347,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.542347,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.454721,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.454721,
+          "gps_reliability": 0.396,
+          "boost": -0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_20_145",
+      "name": "Z_20_145",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.027632,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.225298,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.310385,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.289873,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_25_120",
+      "name": "Z_25_120",
+      "pop_millions": 2,
+      "tiers": {
+        "T1": {
+          "probability": 0.266729,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.266729,
+          "gps_reliability": 0.896,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.340886,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.340886,
+          "gps_reliability": 0.896,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.301523,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.301523,
+          "gps_reliability": 0.896,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.28716,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.28716,
+          "gps_reliability": 0.896,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_25_125",
+      "name": "Z_25_125",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.347297,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.347297,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.353248,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.353248,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.328962,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.328962,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.305487,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.305487,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_25_130",
+      "name": "Z_25_130",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.364751,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.364751,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.423494,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.423494,
+          "gps_reliability": 0.5,
+          "boost": -0.0
+        },
+        "T3": {
+          "probability": 0.405097,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.405097,
+          "gps_reliability": 0.5,
+          "boost": -0.0
+        },
+        "T4": {
+          "probability": 0.333701,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.333701,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_25_135",
+      "name": "Z_25_135",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.029387,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.234579,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.321718,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.303399,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_25_140",
+      "name": "Z_25_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.338868,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.338868,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.689673,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.689673,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.649463,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.649463,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.569542,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.569542,
+          "gps_reliability": 0.396,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_30_125",
+      "name": "Z_30_125",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.376861,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.376861,
+          "gps_reliability": 1.0,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.551147,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.551147,
+          "gps_reliability": 1.0,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.537562,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.537562,
+          "gps_reliability": 1.0,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.5647,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.5647,
+          "gps_reliability": 1.0,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_30_130",
+      "name": "Kyushu-South",
+      "pop_millions": 13,
+      "tiers": {
+        "T1": {
+          "probability": 0.606288,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.606288,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.316587,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.316587,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.246953,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.246953,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.237269,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.237269,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_30_135",
+      "name": "Kyushu-North",
+      "pop_millions": 4,
+      "tiers": {
+        "T1": {
+          "probability": 0.506183,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.506183,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.390323,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.390323,
+          "gps_reliability": 0.58,
+          "boost": -0.0
+        },
+        "T3": {
+          "probability": 0.323216,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.323216,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.274463,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.274463,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_30_140",
+      "name": "Z_30_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.446601,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.404258,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.35161,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.282808,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_35_130",
+      "name": "Shikoku",
+      "pop_millions": 8,
+      "tiers": {
+        "T1": {
+          "probability": 0.165905,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.165905,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.378337,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.378337,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.40882,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.40882,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.381856,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.381856,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_35_135",
+      "name": "Osaka-Kobe",
+      "pop_millions": 60,
+      "tiers": {
+        "T1": {
+          "probability": 0.639336,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.639336,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.46755,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.46755,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.404686,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.404686,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.388185,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.388185,
+          "gps_reliability": 0.58,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_35_140",
+      "name": "Tokyo-Kanto",
+      "pop_millions": 39,
+      "tiers": {
+        "T1": {
+          "probability": 0.905945,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.905945,
+          "gps_reliability": 0.25,
+          "boost": -0.0
+        },
+        "T2": {
+          "probability": 0.687368,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.687368,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.666749,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.666749,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.667798,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.667798,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_40_130",
+      "name": "Z_40_130",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.027334,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.027334,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.236573,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.236573,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.328127,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.328127,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.30964,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.30964,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_40_135",
+      "name": "Niigata",
+      "pop_millions": 8,
+      "tiers": {
+        "T1": {
+          "probability": 0.368164,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.368164,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.409037,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.409037,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.401176,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.401176,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.308043,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.308043,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_40_140",
+      "name": "Hokkaido-S",
+      "pop_millions": 4,
+      "tiers": {
+        "T1": {
+          "probability": 0.557795,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.557795,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.278415,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.278415,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.187804,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.187804,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.153982,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.153982,
+          "gps_reliability": 0.5,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_40_145",
+      "name": "Hokkaido-E",
+      "pop_millions": 5,
+      "tiers": {
+        "T1": {
+          "probability": 0.424102,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.424102,
+          "gps_reliability": 0.952,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.333089,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.333089,
+          "gps_reliability": 0.952,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.263141,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.263141,
+          "gps_reliability": 0.952,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.204451,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.204451,
+          "gps_reliability": 0.952,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_40_150",
+      "name": "Z_40_150",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.02794,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.241422,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.333636,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.313967,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_45_140",
+      "name": "Z_45_140",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.335093,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.335093,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.286144,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.286144,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.232264,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.232264,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.172734,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.172734,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_45_145",
+      "name": "Kuril-South",
+      "pop_millions": 5,
+      "tiers": {
+        "T1": {
+          "probability": 0.1734,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.1734,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.498075,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.498075,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.544176,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.544176,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.536718,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.536718,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    },
+    {
+      "zone_id": "Z_45_150",
+      "name": "Z_45_150",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.270828,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.526855,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.51661,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.458118,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_45_155",
+      "name": "Z_45_155",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.027555,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.227278,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.311291,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.289041,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_50_150",
+      "name": "Z_50_150",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.027654,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": true,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T2": {
+          "probability": 0.239651,
+          "alerts": {
+            "0.5pct": true,
+            "1.0pct": true,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          }
+        },
+        "T3": {
+          "probability": 0.331643,
+          "alerts": {
+            "0.5pct": true,
+            "1.0pct": true,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        },
+        "T4": {
+          "probability": 0.312476,
+          "alerts": {
+            "0.5pct": true,
+            "1.0pct": true,
+            "2.0pct": true,
+            "5.0pct": true,
+            "10.0pct": true
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          }
+        }
+      }
+    },
+    {
+      "zone_id": "Z_50_155",
+      "name": "Z_50_155",
+      "pop_millions": 0,
+      "tiers": {
+        "T1": {
+          "probability": 0.026921,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.026921,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T2": {
+          "probability": 0.225299,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 2,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-12T23:59:59Z"
+          },
+          "probability_seismic": 0.225299,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T3": {
+          "probability": 0.31058,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.31058,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        },
+        "T4": {
+          "probability": 0.289074,
+          "alerts": {
+            "0.5pct": false,
+            "1.0pct": false,
+            "2.0pct": false,
+            "5.0pct": false,
+            "10.0pct": false
+          },
+          "validity": {
+            "window_days": 3,
+            "valid_from": "2026-10-11T00:00:00Z",
+            "valid_to": "2026-10-13T23:59:59Z"
+          },
+          "probability_seismic": 0.289074,
+          "gps_reliability": 0.25,
+          "boost": 0.0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "total_zones": 29,
+    "alerts_by_tier": {
+      "T1": 2,
+      "T2": 3,
+      "T3": 5,
+      "T4": 4
+    }
+  }
+}
